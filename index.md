@@ -4,8 +4,8 @@ layout: default
 
 ### Working Groups
 
-* [Criminal and Civil Justice](/criminal-and-civil-justice/)
-* [Finance, Banking, and Industry](/education/)
-* [Real Estate and Housing](/finance-banking-and-industry/)
-* [Education](/education/)
-* [Health](/health/)
+* [Criminal and Civil Justice]({{site.baseurl}}/criminal-and-civil-justice/)
+* [Finance, Banking, and Industry]({{site.baseurl}}/education/)
+* [Real Estate and Housing]({{site.baseurl}}/finance-banking-and-industry/)
+* [Education]({{site.baseurl}}/education/)
+* [Health]({{site.baseurl}}/health/)
