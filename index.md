@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Task Force on Institutional Racism
 ---
 
 ### Working Groups
