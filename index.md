@@ -3,7 +3,7 @@ layout: default
 title: Mayor's Task Force on Institutional Racism and Systemic Inequities
 ---
 
-### Working Groups
+### Index
 
 * [Education]({{site.baseurl}}/education/)
 * [Real Estate and Housing]({{site.baseurl}}/real-estate-and-housing/)
