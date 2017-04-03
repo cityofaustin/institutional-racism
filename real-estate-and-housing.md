@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Real Estate and Housing
-position: 3
+position: 2
 ---
 ## Summary
 ## Background: How did our city become so racially divided?
