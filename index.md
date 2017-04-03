@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Task Force on Institutional Racism
+title: Mayor's Task Force on Institutional Racism and Systemic Inequities
 ---
 
 ### Working Groups
