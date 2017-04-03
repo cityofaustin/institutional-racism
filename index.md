@@ -5,8 +5,8 @@ title: Task Force on Institutional Racism
 
 ### Working Groups
 
-* [Criminal and Civil Justice]({{site.baseurl}}/criminal-and-civil-justice/)
-* [Finance, Banking, and Industry]({{site.baseurl}}/finance-banking-and-industry/)
-* [Real Estate and Housing]({{site.baseurl}}/real-estate-and-housing/)
 * [Education]({{site.baseurl}}/education/)
+* [Real Estate and Housing]({{site.baseurl}}/real-estate-and-housing/)
 * [Health]({{site.baseurl}}/health/)
+* [Finance, Banking, and Industry]({{site.baseurl}}/finance-banking-and-industry/)
+* [Criminal and Civil Justice]({{site.baseurl}}/criminal-and-civil-justice/)
