@@ -1,8 +1,9 @@
 ---
-layout: default
 title: Real Estate and Housing
 position: 2
+layout: default
 ---
+
 ## Summary
 ## Background: How did our city become so racially divided?
 ## Recommendations 

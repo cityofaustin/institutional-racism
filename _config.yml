@@ -1,9 +1,15 @@
-title: Mayor's Task Force on Institutional Racism and Systemic Inequities 
+---
+title: Mayor's Task Force on Institutional Racism and Systemic Inequities
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 baseurl: "/institutional-racism"
-
 permalink: pretty
-
 theme: jekyll-theme-cayman
-
 exclude:
-  - Gemfile
+- Gemfile

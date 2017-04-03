@@ -1,8 +1,9 @@
 ---
-layout: default
 title: Education
 position: 1
+layout: default
 ---
+
 ## Summary
 ## Background
 ## Recommendations

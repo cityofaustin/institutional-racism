@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Mayor's Task Force on Institutional Racism and Systemic Inequities
+layout: default
 ---
 
 ### Index
