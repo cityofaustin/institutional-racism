@@ -10,4 +10,4 @@ title: Task Force on Institutional Racism
 * [Health]({{site.baseurl}}/health/)
 * [Finance, Banking, and Industry]({{site.baseurl}}/finance-banking-and-industry/)
 * [Criminal and Civil Justice]({{site.baseurl}}/criminal-and-civil-justice/)
-* [Task Force Next Steps] ({{site.baseurl}}/Task-Force-Next-Steps/)
+* [Task Force Next Steps]({{site.baseurl}}/Task-Force-Next-Steps/)
