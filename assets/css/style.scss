@@ -1,0 +1,34 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  background-color: #666699;
+  background-image: url("{{ '/assets/images/skyline.jpg' | relative_url }}");
+  background-size: cover;
+}
+
+.project-name,
+.project-tagline {
+  text-shadow: 1px 1px 5px rgba(0,0,0,0.6);
+  opacity: 1.0;
+}
+
+.btn, .btn:hover {
+  color: #666699;
+  background-color: #fff;
+  border-color: #fff;
+  box-shadow: 1px 1px 5px rgba(0,0,0,0.3);
+}
+
+.main-content {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #666699;
+  }
+}
