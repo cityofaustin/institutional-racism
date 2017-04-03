@@ -4,7 +4,7 @@ title: Mayor's Task Force on Institutional Racism and Systemic Inequities
 ---
 
 ### Index
-
+* [A Letter to the Mayor...]({{site.baseurl}}/a-letter-to-the-Mayor-on-behalf-of-the-task-force/)
 * [Education]({{site.baseurl}}/education/)
 * [Real Estate and Housing]({{site.baseurl}}/real-estate-and-housing/)
 * [Health]({{site.baseurl}}/health/)
